@@ -11,6 +11,7 @@ TODO:
 5. Add music
 6. Character selection
 7. Statistic saving and storing it on the DB
+8. A lot of bug fix
 
 OPTIONAL:
 1. JSON Map creation

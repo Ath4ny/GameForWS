@@ -10,6 +10,7 @@ TODO:
 4. Animation
 5. Add music
 6. Character selection
+7. Statistic saving and storing it on the DB
 
 OPTIONAL:
 1. JSON Map creation

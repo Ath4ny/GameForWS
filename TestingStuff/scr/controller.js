@@ -4,6 +4,7 @@ const controller = {
     right: false,
     up: false,
     down: false,
+    isShooting: false,
     keyListener: function (event) {
 
         var key_state = (event.type == "keydown") ? true : false;
@@ -21,6 +22,9 @@ const controller = {
                 break;
             case 40://down key
                 controller.down = key_state;
+                break;
+            case 49://shoot
+                controller.isShooting = key_state;
                 break;
 
         }
